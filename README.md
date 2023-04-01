@@ -13,7 +13,7 @@
 
 # HOSTING
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+Yash_unbelievable_spam+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DeadlySpamBot+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+Yash_unbelievable_spam+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+Yash_unbelievable_spam+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
 </p>
 
 ###    ─「 HEROKU DEPLOY」─

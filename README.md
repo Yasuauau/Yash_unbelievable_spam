@@ -1,15 +1,15 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# 「[DeadlySpam👮](https://t.me/deadly_spam_bot)」
-Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝘽𝙡𝙖𝙯𝙚✘ᥫʀ᭡](https://t.me/Elric_xD)
+# 「[Yash_unbelievable_spam👮](https://t.me/lucifer_hell_for_you)」
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<a href="https://youtu.be/M7GPJf4WCy0"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙰+𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖+𝚂𝚙𝚊𝚖𝙱𝚘𝚝+𝙾𝚙𝚎𝚗+𝚂𝚘𝚞𝚛𝚌𝚎;𝚠𝚛𝚒𝚝𝚝𝚎𝚗+𝙸𝚗+Telethon%E2%9D%A4%EF%B8%8F">
 </p> 
 
-![logo](https://telegra.ph/file/add950cb92d97e29f97c3.jpg)
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![logo](https://graph.org/file/7f1b565df4be379474c92.jpg)
+<a href="https://youtu.be/1z0-h4XiZ7U"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # Hᴏsᴛɪɴɢ
 
@@ -24,11 +24,11 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝘽𝙡𝙖𝙯𝙚✘ᥫʀ᭡](https://t.me/Elri
 
 # Tutorial 
 
-[![DEADLYSPAMBOT TUTORIAL](https://img.shields.io/badge/Watch%20Now-blue)](http://youtu.be/iAG3csVQo_g)
+[Yash_unbelievable_spam TUTORIAL](https://img.shields.io/badge/Watch%20Now-blue)](http://youtu.be/iAG3csVQo_g)
 
-## What Is DeadlySpamBot
+## What Is Yash_unbelievable_spam
 
-<b>DeadlySpamBot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
+<b>Yash_unbelievable_spam Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
 
 ## Is Safe To Deploy
 
@@ -36,6 +36,6 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝘽𝙡𝙖𝙯𝙚✘ᥫʀ᭡](https://t.me/Elri
 
 # CᴏɴᴛʀɪBᴜᴛᴏʀꜱ
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Team-Deadly/DEADLY-SPAMBOT)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Team-Deadly/DEADLYSPAMBOT)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
